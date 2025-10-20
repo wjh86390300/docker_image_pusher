@@ -1,1 +1,1 @@
-docker pull vllm/vllm-openai:v0.10.0
+docker pull registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:v1.4.0

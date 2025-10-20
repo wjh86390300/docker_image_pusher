@@ -1,1 +1,1 @@
-docker pull registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:v1.4.0
+registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:v1.4.0

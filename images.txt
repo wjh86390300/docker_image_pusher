@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:v1.2.0
+xprobe/xinference:v1.10.1
